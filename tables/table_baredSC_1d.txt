@@ -1,0 +1,28 @@
+cluster_Chondrocytes.txt	Col2a1	6
+cluster_Chondrocytes.txt	eGFP-SV40pA	6
+cluster_Dermis.txt	Col2a1	6
+cluster_Dermis.txt	eGFP-SV40pA	6
+cluster_Interdigit mesenchyme.txt	Col2a1	6
+cluster_Interdigit mesenchyme.txt	eGFP-SV40pA	6
+cluster_Muscle connective tissue.txt	Col2a1	6
+cluster_Muscle connective tissue.txt	eGFP-SV40pA	6
+cluster_Pericartilaginous mesenchyme.txt	Col2a1	6
+cluster_Pericartilaginous mesenchyme.txt	eGFP-SV40pA	6
+cluster_Perichondrium.txt	Col2a1	6
+cluster_Perichondrium.txt	eGFP-SV40pA	6
+cluster_Pre-osteoblasts.txt	Col2a1	6
+cluster_Pre-osteoblasts.txt	eGFP-SV40pA	6
+cluster_Tendons.txt	Col2a1	6
+cluster_Tendons.txt	eGFP-SV40pA	6
+merged.cluster_Blood and immune cells.txt	Col2a1	6
+merged.cluster_Blood and immune cells.txt	eGFP-SV40pA	6
+merged.cluster_Endothelium.txt	Col2a1	6
+merged.cluster_Endothelium.txt	eGFP-SV40pA	6
+merged.cluster_Epithelium.txt	Col2a1	6
+merged.cluster_Epithelium.txt	eGFP-SV40pA	6
+merged.cluster_Mesenchyme.txt	Col2a1	6
+merged.cluster_Mesenchyme.txt	eGFP-SV40pA	6
+merged.cluster_Muscle.txt	Col2a1	6
+merged.cluster_Muscle.txt	eGFP-SV40pA	6
+merged.cluster_Neuronal cells.txt	Col2a1	6
+merged.cluster_Neuronal cells.txt	eGFP-SV40pA	6

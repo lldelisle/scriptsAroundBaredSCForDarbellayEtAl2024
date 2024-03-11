@@ -1,0 +1,8 @@
+cluster_Chondrocytes.txt	Col2a1	eGFP-SV40pA	6	4
+cluster_Dermis.txt	Col2a1	eGFP-SV40pA	6	4
+cluster_Interdigit mesenchyme.txt	Col2a1	eGFP-SV40pA	6	4
+cluster_Muscle connective tissue.txt	Col2a1	eGFP-SV40pA	6	4
+cluster_Pericartilaginous mesenchyme.txt	Col2a1	eGFP-SV40pA	6	4
+cluster_Perichondrium.txt	Col2a1	eGFP-SV40pA	6	4
+cluster_Pre-osteoblasts.txt	Col2a1	eGFP-SV40pA	6	4
+cluster_Tendons.txt	Col2a1	eGFP-SV40pA	6	4
